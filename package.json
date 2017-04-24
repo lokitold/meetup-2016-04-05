@@ -4,8 +4,6 @@
   "description": "## \"El camino para dominar reactjs\" (sin fatigarse en el intento).",
   "main": "webpack.config.js",
   "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server --inline --hot"
   },
   "repository": {
     "type": "git",
